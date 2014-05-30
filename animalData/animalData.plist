@@ -46,13 +46,13 @@
 			profileImages = (
 				{
 					credit = "David Maddison";
-					filename = "Bembidion_xanthacrum_profile.jepg";
+					filename = "Bembidion_xanthacrum_profile.jpg";
 				},
 			);
 			species = xanthacrum;
 			squareCropImage = (
 				{
-					filename = "Bembidion_xanthacrum_squareCrop.jepg";
+					filename = "Bembidion_xanthacrum_squareCrop.jpg";
 				},
 			);
 			taxonGroup = Microserrullula;
@@ -76,13 +76,43 @@
 			profileImages = (
 				{
 					credit = "David Maddison";
-					filename = "Bembidion_inaequale_profile.jpeg";
+					filename = "Bembidion_inaequale_profile.jpg";
 				},
 			);
 			species = inaequale;
 			squareCropImage = (
 				{
-					filename = "Bembidion_inaequale_squareCrop.jpeg";
+					filename = "Bembidion_inaequale_squareCrop.jpg";
+				},
+			);
+			taxonGroup = Bracteon;
+		},
+		{
+			biology = "This species named for George Ball";
+			class = Insecta;
+			commonNames = (
+				"Ball's Bemb",
+			);
+			distinctive = "DIAGNOSTIC CHARACTER";
+			distribution = "RANGE";
+			family = Carabidae;
+			genus = Bembidion;
+			habitat = "HABITAT";
+			identifier = 290931;
+			"identifyingCharacteristics" = "DESCRIPTION";
+			nativeStatus = "Native to WHERE";
+			order = Coleoptera;
+			phylum = Arthropoda;
+			profileImages = (
+				{
+					credit = "David Maddison";
+					filename = "Bembidion_balli_profile.jpg";
+				},
+			);
+			species = balli;
+			squareCropImage = (
+				{
+					filename = "Bembidion_balli_squareCrop.jpg";
 				},
 			);
 			taxonGroup = Bracteon;
@@ -106,13 +136,43 @@
 			profileImages = (
 				{
 					credit = "David Maddison";
-					filename = "Bembidion_americanum_profile.jpeg";
+					filename = "Bembidion_americanum_profile.jpg";
 				},
 			);
 			species = americanum;
 			squareCropImage = (
 				{
-					filename = "Bembidion_americanum_squareCrop.jpeg";
+					filename = "Bembidion_americanum_squareCrop.jpg";
+				},
+			);
+			taxonGroup = Ochthedromus;
+		},
+		{
+			biology = "INSERT BIOLOGY HERE";
+			class = Insecta;
+			commonNames = (
+				"Two-pitted Bemb",
+			);
+			distinctive = "DIAGNOSTIC CHARACTER";
+			distribution = "RANGE";
+			family = Carabidae;
+			genus = Bembidion;
+			habitat = "HABITAT";
+			identifier = 290931;
+			"identifyingCharacteristics" = "DESCRIPTION";
+			nativeStatus = "Native to WHERE";
+			order = Coleoptera;
+			phylum = Arthropoda;
+			profileImages = (
+				{
+					credit = "David Maddison";
+					filename = "Bembidion_bifossulatum_profile.jpg";
+				},
+			);
+			species = bifossulatum;
+			squareCropImage = (
+				{
+					filename = "Bembidion_bifossulatum_squareCrop.jpg";
 				},
 			);
 			taxonGroup = Ochthedromus;
@@ -136,13 +196,13 @@
 			profileImages = (
 				{
 					credit = "David Maddison";
-					filename = "Bembidion_antiquum_profile.jpeg";
+					filename = "Bembidion_antiquum_profile.jpg";
 				},
 			);
 			species = antiquum;
 			squareCropImage = (
 				{
-					filename = "Bembidion_antiquum_squareCrop.jpeg";
+					filename = "Bembidion_antiquum_squareCrop.jpg";
 				},
 			);
 			taxonGroup = Pseudoperyphus;
@@ -167,17 +227,201 @@
 			profileImages = (
 				{
 					credit = "David Maddison";
-					filename = "Bembidion_bellorum_profile.jpeg";
+					filename = "Bembidion_bellorum_profile.jpg";
 				},
 			);
 			species = bellorum;
 			squareCropImage = (
 				{
-					filename = "Bembidion_bellorum_squareCrop.jpeg";
+					filename = "Bembidion_bellorum_squareCrop.jpg";
 				},
 			);
 			taxonGroup = Pseudoperyphus;
             taxonSubgroup = "chalceum species group";
+		},
+		{
+			biology = "INSERT BIOLOGY HERE";
+			class = Insecta;
+			commonNames = (
+				"Bronzed Bemb",
+			);
+			distinctive = "DIAGNOSTIC CHARACTER";
+			distribution = "RANGE";
+			family = Carabidae;
+			genus = Bembidion;
+			habitat = "HABITAT";
+			identifier = 290931;
+			"identifyingCharacteristics" = "DESCRIPTION";
+			nativeStatus = "Native to WHERE";
+			order = Coleoptera;
+			phylum = Arthropoda;
+			profileImages = (
+				{
+					credit = "David Maddison";
+					filename = "Bembidion_chalceum_profile.jpg";
+				},
+			);
+			species = chalceum;
+			squareCropImage = (
+				{
+					filename = "Bembidion_chalceum_squareCrop.jpg";
+				},
+			);
+			taxonGroup = Pseudoperyphus;
+            taxonSubgroup = "chalceum species group";
+		},
+		{
+			biology = "INSERT BIOLOGY HERE";
+			class = Insecta;
+			commonNames = (
+				"Rothfels' Bemb",
+			);
+			distinctive = "DIAGNOSTIC CHARACTER";
+			distribution = "RANGE";
+			family = Carabidae;
+			genus = Bembidion;
+			habitat = "HABITAT";
+			identifier = 290931;
+			"identifyingCharacteristics" = "DESCRIPTION";
+			nativeStatus = "Native to WHERE";
+			order = Coleoptera;
+			phylum = Arthropoda;
+			profileImages = (
+				{
+					credit = "David Maddison";
+					filename = "Bembidion_rothfelsi_profile.jpg";
+				},
+			);
+			species = rothfelsi;
+			squareCropImage = (
+				{
+					filename = "Bembidion_rothfelsi_squareCrop.jpg";
+				},
+			);
+			taxonGroup = Pseudoperyphus;
+            taxonSubgroup = "chalceum species group";
+		},
+		{
+			biology = "INSERT BIOLOGY HERE";
+			class = Insecta;
+			commonNames = (
+				"Little Louise's Bemb",
+			);
+			distinctive = "DIAGNOSTIC CHARACTER";
+			distribution = "RANGE";
+			family = Carabidae;
+			genus = Bembidion;
+			habitat = "HABITAT";
+			identifier = 290931;
+			"identifyingCharacteristics" = "DESCRIPTION";
+			nativeStatus = "Native to WHERE";
+			order = Coleoptera;
+			phylum = Arthropoda;
+			profileImages = (
+				{
+					credit = "David Maddison";
+					filename = "Bembidion_louisella_profile.jpg";
+				},
+			);
+			species = louisella;
+			squareCropImage = (
+				{
+					filename = "Bembidion_louisella_squareCrop.jpg";
+				},
+			);
+			taxonGroup = Pseudoperyphus;
+            taxonSubgroup = "chalceum species group";
+		},
+		{
+			biology = "INSERT BIOLOGY HERE";
+			class = Insecta;
+			commonNames = (
+				"Red-spotted Bemb",
+			);
+			distinctive = "DIAGNOSTIC CHARACTER";
+			distribution = "RANGE";
+			family = Carabidae;
+			genus = Bembidion;
+			habitat = "HABITAT";
+			identifier = 290931;
+			"identifyingCharacteristics" = "DESCRIPTION";
+			nativeStatus = "Native to WHERE";
+			order = Coleoptera;
+			phylum = Arthropoda;
+			profileImages = (
+				{
+					credit = "David Maddison";
+					filename = "Bembidion_rufotinctum_profile.jpg";
+				},
+			);
+			species = rufotinctum;
+			squareCropImage = (
+				{
+					filename = "Bembidion_rufotinctum_squareCrop.jpg";
+				},
+			);
+			taxonGroup = Pseudoperyphus;
+            taxonSubgroup = "honestum species group";
+		},
+		{
+			biology = "INSERT BIOLOGY HERE";
+			class = Insecta;
+			commonNames = (
+				"Confusing Bemb",
+			);
+			distinctive = "DIAGNOSTIC CHARACTER";
+			distribution = "RANGE";
+			family = Carabidae;
+			genus = Bembidion;
+			habitat = "HABITAT";
+			identifier = 290931;
+			"identifyingCharacteristics" = "DESCRIPTION";
+			nativeStatus = "Native to WHERE";
+			order = Coleoptera;
+			phylum = Arthropoda;
+			profileImages = (
+				{
+					credit = "David Maddison";
+					filename = "Bembidion_confusum_profile.jpg";
+				},
+			);
+			species = confusum;
+			squareCropImage = (
+				{
+					filename = "Bembidion_confusum_squareCrop.jpg";
+				},
+			);
+			taxonGroup = Odontium;
+		},
+		{
+			biology = "INSERT BIOLOGY HERE";
+			class = Insecta;
+			commonNames = (
+				"Durango Bemb",
+			);
+			distinctive = "DIAGNOSTIC CHARACTER";
+			distribution = "RANGE";
+			family = Carabidae;
+			genus = Bembidion;
+			habitat = "HABITAT";
+			identifier = 290931;
+			"identifyingCharacteristics" = "DESCRIPTION";
+			nativeStatus = "Native to WHERE";
+			order = Coleoptera;
+			phylum = Arthropoda;
+			profileImages = (
+				{
+					credit = "David Maddison";
+					filename = "Bembidion_durangoense_profile.jpg";
+				},
+			);
+			species = durangoense;
+			squareCropImage = (
+				{
+					filename = "Bembidion_durangoense_squareCrop.jpg";
+				},
+			);
+			taxonGroup = Odontium;
 		},
 		{
 			biology = "INSERT BIOLOGY HERE";
@@ -198,18 +442,18 @@
 			profileImages = (
 				{
 					credit = "David Maddison";
-					filename = "Bembidion_EPITHET_profile.jpeg";
+					filename = "Bembidion_EPITHET_profile.jpg";
 				},
 			);
 			species = EPITHET;
 			squareCropImage = (
 				{
-					filename = "Bembidion_EPITHET_squareCrop.jpeg";
+					filename = "Bembidion_EPITHET_squareCrop.jpg";
 				},
 			);
 			taxonGroup = TAXONGROUP;
 			taxonSubgroup = "SUBGROUP IF ANY";
 		},
 	);
-	versionID = "1.2";
+	versionID = "1.3";
 }
