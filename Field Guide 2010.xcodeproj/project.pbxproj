@@ -175,6 +175,43 @@
 		A4A25D2A12D97F5E003E45D2 /* SearchTableViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A4A25D2812D97F5E003E45D2 /* SearchTableViewController.xib */; };
 		A4D3C4D712DA52B100BFC300 /* CustomSearchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A4D3C4D512DA52B100BFC300 /* CustomSearchViewController.m */; };
 		A4D3C4D812DA52B100BFC300 /* CustomSearchViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A4D3C4D612DA52B100BFC300 /* CustomSearchViewController.xib */; };
+		E54D31351936B7CC008F1E10 /* Bracteon_2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E54D312D1936B7CC008F1E10 /* Bracteon_2x.png */; };
+		E54D31361936B7CC008F1E10 /* Bracteon_active_2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E54D312E1936B7CC008F1E10 /* Bracteon_active_2x.png */; };
+		E54D31371936B7CC008F1E10 /* Ochthedromus_2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E54D312F1936B7CC008F1E10 /* Ochthedromus_2x.png */; };
+		E54D31381936B7CC008F1E10 /* Ochthedromus_active_2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E54D31301936B7CC008F1E10 /* Ochthedromus_active_2x.png */; };
+		E54D31391936B7CC008F1E10 /* Odontium_2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E54D31311936B7CC008F1E10 /* Odontium_2x.png */; };
+		E54D313A1936B7CC008F1E10 /* Odontium_active_2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E54D31321936B7CC008F1E10 /* Odontium_active_2x.png */; };
+		E54D313B1936B7CC008F1E10 /* Pseudoperyhpus_active_2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E54D31331936B7CC008F1E10 /* Pseudoperyhpus_active_2x.png */; };
+		E54D313C1936B7CC008F1E10 /* Pseudoperyphus_2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E54D31341936B7CC008F1E10 /* Pseudoperyphus_2x.png */; };
+		E54D315B1936BB6B008F1E10 /* Bembidion_americanum_profile.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E54D31411936BB6B008F1E10 /* Bembidion_americanum_profile.jpeg */; };
+		E54D315C1936BB6B008F1E10 /* Bembidion_americanum_squareCrop.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E54D31421936BB6B008F1E10 /* Bembidion_americanum_squareCrop.jpeg */; };
+		E54D315D1936BB6B008F1E10 /* Bembidion_antiquum_profile.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E54D31431936BB6B008F1E10 /* Bembidion_antiquum_profile.jpeg */; };
+		E54D315E1936BB6B008F1E10 /* Bembidion_antiquum_squareCrop.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E54D31441936BB6B008F1E10 /* Bembidion_antiquum_squareCrop.jpeg */; };
+		E54D315F1936BB6B008F1E10 /* Bembidion_balli_profile.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E54D31451936BB6B008F1E10 /* Bembidion_balli_profile.jpeg */; };
+		E54D31601936BB6B008F1E10 /* Bembidion_balli_squareCrop.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E54D31461936BB6B008F1E10 /* Bembidion_balli_squareCrop.jpeg */; };
+		E54D31611936BB6B008F1E10 /* Bembidion_bellorum_profile.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E54D31471936BB6B008F1E10 /* Bembidion_bellorum_profile.jpeg */; };
+		E54D31621936BB6B008F1E10 /* Bembidion_bellorum_squareCrop.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E54D31481936BB6B008F1E10 /* Bembidion_bellorum_squareCrop.jpeg */; };
+		E54D31631936BB6B008F1E10 /* Bembidion_bifossulatum_profile.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E54D31491936BB6B008F1E10 /* Bembidion_bifossulatum_profile.jpeg */; };
+		E54D31641936BB6B008F1E10 /* Bembidion_bifossulatum_squareCrop.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E54D314A1936BB6B008F1E10 /* Bembidion_bifossulatum_squareCrop.jpeg */; };
+		E54D31651936BB6B008F1E10 /* Bembidion_chalceum_profile.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E54D314B1936BB6B008F1E10 /* Bembidion_chalceum_profile.jpeg */; };
+		E54D31661936BB6B008F1E10 /* Bembidion_chalceum_squareCrop.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E54D314C1936BB6B008F1E10 /* Bembidion_chalceum_squareCrop.jpeg */; };
+		E54D31671936BB6B008F1E10 /* Bembidion_confusum_profile.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E54D314D1936BB6B008F1E10 /* Bembidion_confusum_profile.jpeg */; };
+		E54D31681936BB6B008F1E10 /* Bembidion_confusum_squareCrop.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E54D314E1936BB6B008F1E10 /* Bembidion_confusum_squareCrop.jpeg */; };
+		E54D31691936BB6B008F1E10 /* Bembidion_durangoense_profile.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E54D314F1936BB6B008F1E10 /* Bembidion_durangoense_profile.jpeg */; };
+		E54D316A1936BB6B008F1E10 /* Bembidion_durangoense_squareCrop.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E54D31501936BB6B008F1E10 /* Bembidion_durangoense_squareCrop.jpeg */; };
+		E54D316B1936BB6B008F1E10 /* Bembidion_inaequale_profile.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E54D31511936BB6B008F1E10 /* Bembidion_inaequale_profile.jpeg */; };
+		E54D316C1936BB6B008F1E10 /* Bembidion_inaequale_squareCrop.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E54D31521936BB6B008F1E10 /* Bembidion_inaequale_squareCrop.jpeg */; };
+		E54D316D1936BB6B008F1E10 /* Bembidion_louisella_profile.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E54D31531936BB6B008F1E10 /* Bembidion_louisella_profile.jpeg */; };
+		E54D316E1936BB6B008F1E10 /* Bembidion_louisella_squareCrop.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E54D31541936BB6B008F1E10 /* Bembidion_louisella_squareCrop.jpeg */; };
+		E54D316F1936BB6B008F1E10 /* Bembidion_rothfelsi_profile.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E54D31551936BB6B008F1E10 /* Bembidion_rothfelsi_profile.jpeg */; };
+		E54D31701936BB6B008F1E10 /* Bembidion_rothfelsi_squareCropg.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E54D31561936BB6B008F1E10 /* Bembidion_rothfelsi_squareCropg.jpeg */; };
+		E54D31711936BB6B008F1E10 /* Bembidion_rufotinctum_profile.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E54D31571936BB6B008F1E10 /* Bembidion_rufotinctum_profile.jpeg */; };
+		E54D31721936BB6B008F1E10 /* Bembidion_rufotinctum_squareCrop.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E54D31581936BB6B008F1E10 /* Bembidion_rufotinctum_squareCrop.jpeg */; };
+		E54D31731936BB6B008F1E10 /* Bembidion_xanthacrum_profile.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E54D31591936BB6B008F1E10 /* Bembidion_xanthacrum_profile.jpeg */; };
+		E54D31741936BB6B008F1E10 /* Bembidion_xanthacrum_squareCrop.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E54D315A1936BB6B008F1E10 /* Bembidion_xanthacrum_squareCrop.jpeg */; };
+		E567BCE619355F8400348D42 /* Microserrullula_2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E567BCE419355F8400348D42 /* Microserrullula_2x.png */; };
+		E567BCE719355F8400348D42 /* Microserrullula_active_2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E567BCE519355F8400348D42 /* Microserrullula_active_2x.png */; };
+		E59AF78719354F93007B5D0F /* animalData_original.plist in Resources */ = {isa = PBXBuildFile; fileRef = E59AF78619354F93007B5D0F /* animalData_original.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -374,6 +411,43 @@
 		A4D3C4D412DA52B100BFC300 /* CustomSearchViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomSearchViewController.h; sourceTree = "<group>"; };
 		A4D3C4D512DA52B100BFC300 /* CustomSearchViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomSearchViewController.m; sourceTree = "<group>"; };
 		A4D3C4D612DA52B100BFC300 /* CustomSearchViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CustomSearchViewController.xib; sourceTree = "<group>"; };
+		E54D312D1936B7CC008F1E10 /* Bracteon_2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Bracteon_2x.png; path = ../../../Documents/ImagesForFieldGuide/Bracteon_2x.png; sourceTree = "<group>"; };
+		E54D312E1936B7CC008F1E10 /* Bracteon_active_2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Bracteon_active_2x.png; path = ../../../Documents/ImagesForFieldGuide/Bracteon_active_2x.png; sourceTree = "<group>"; };
+		E54D312F1936B7CC008F1E10 /* Ochthedromus_2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Ochthedromus_2x.png; path = ../../../Documents/ImagesForFieldGuide/Ochthedromus_2x.png; sourceTree = "<group>"; };
+		E54D31301936B7CC008F1E10 /* Ochthedromus_active_2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Ochthedromus_active_2x.png; path = ../../../Documents/ImagesForFieldGuide/Ochthedromus_active_2x.png; sourceTree = "<group>"; };
+		E54D31311936B7CC008F1E10 /* Odontium_2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Odontium_2x.png; path = ../../../Documents/ImagesForFieldGuide/Odontium_2x.png; sourceTree = "<group>"; };
+		E54D31321936B7CC008F1E10 /* Odontium_active_2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Odontium_active_2x.png; path = ../../../Documents/ImagesForFieldGuide/Odontium_active_2x.png; sourceTree = "<group>"; };
+		E54D31331936B7CC008F1E10 /* Pseudoperyhpus_active_2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Pseudoperyhpus_active_2x.png; path = ../../../Documents/ImagesForFieldGuide/Pseudoperyhpus_active_2x.png; sourceTree = "<group>"; };
+		E54D31341936B7CC008F1E10 /* Pseudoperyphus_2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Pseudoperyphus_2x.png; path = ../../../Documents/ImagesForFieldGuide/Pseudoperyphus_2x.png; sourceTree = "<group>"; };
+		E54D31411936BB6B008F1E10 /* Bembidion_americanum_profile.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Bembidion_americanum_profile.jpeg; path = ../../../../Documents/ImagesForFieldGuide/Bembidion_americanum_profile.jpeg; sourceTree = "<group>"; };
+		E54D31421936BB6B008F1E10 /* Bembidion_americanum_squareCrop.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Bembidion_americanum_squareCrop.jpeg; path = ../../../../Documents/ImagesForFieldGuide/Bembidion_americanum_squareCrop.jpeg; sourceTree = "<group>"; };
+		E54D31431936BB6B008F1E10 /* Bembidion_antiquum_profile.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Bembidion_antiquum_profile.jpeg; path = ../../../../Documents/ImagesForFieldGuide/Bembidion_antiquum_profile.jpeg; sourceTree = "<group>"; };
+		E54D31441936BB6B008F1E10 /* Bembidion_antiquum_squareCrop.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Bembidion_antiquum_squareCrop.jpeg; path = ../../../../Documents/ImagesForFieldGuide/Bembidion_antiquum_squareCrop.jpeg; sourceTree = "<group>"; };
+		E54D31451936BB6B008F1E10 /* Bembidion_balli_profile.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Bembidion_balli_profile.jpeg; path = ../../../../Documents/ImagesForFieldGuide/Bembidion_balli_profile.jpeg; sourceTree = "<group>"; };
+		E54D31461936BB6B008F1E10 /* Bembidion_balli_squareCrop.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Bembidion_balli_squareCrop.jpeg; path = ../../../../Documents/ImagesForFieldGuide/Bembidion_balli_squareCrop.jpeg; sourceTree = "<group>"; };
+		E54D31471936BB6B008F1E10 /* Bembidion_bellorum_profile.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Bembidion_bellorum_profile.jpeg; path = ../../../../Documents/ImagesForFieldGuide/Bembidion_bellorum_profile.jpeg; sourceTree = "<group>"; };
+		E54D31481936BB6B008F1E10 /* Bembidion_bellorum_squareCrop.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Bembidion_bellorum_squareCrop.jpeg; path = ../../../../Documents/ImagesForFieldGuide/Bembidion_bellorum_squareCrop.jpeg; sourceTree = "<group>"; };
+		E54D31491936BB6B008F1E10 /* Bembidion_bifossulatum_profile.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Bembidion_bifossulatum_profile.jpeg; path = ../../../../Documents/ImagesForFieldGuide/Bembidion_bifossulatum_profile.jpeg; sourceTree = "<group>"; };
+		E54D314A1936BB6B008F1E10 /* Bembidion_bifossulatum_squareCrop.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Bembidion_bifossulatum_squareCrop.jpeg; path = ../../../../Documents/ImagesForFieldGuide/Bembidion_bifossulatum_squareCrop.jpeg; sourceTree = "<group>"; };
+		E54D314B1936BB6B008F1E10 /* Bembidion_chalceum_profile.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Bembidion_chalceum_profile.jpeg; path = ../../../../Documents/ImagesForFieldGuide/Bembidion_chalceum_profile.jpeg; sourceTree = "<group>"; };
+		E54D314C1936BB6B008F1E10 /* Bembidion_chalceum_squareCrop.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Bembidion_chalceum_squareCrop.jpeg; path = ../../../../Documents/ImagesForFieldGuide/Bembidion_chalceum_squareCrop.jpeg; sourceTree = "<group>"; };
+		E54D314D1936BB6B008F1E10 /* Bembidion_confusum_profile.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Bembidion_confusum_profile.jpeg; path = ../../../../Documents/ImagesForFieldGuide/Bembidion_confusum_profile.jpeg; sourceTree = "<group>"; };
+		E54D314E1936BB6B008F1E10 /* Bembidion_confusum_squareCrop.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Bembidion_confusum_squareCrop.jpeg; path = ../../../../Documents/ImagesForFieldGuide/Bembidion_confusum_squareCrop.jpeg; sourceTree = "<group>"; };
+		E54D314F1936BB6B008F1E10 /* Bembidion_durangoense_profile.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Bembidion_durangoense_profile.jpeg; path = ../../../../Documents/ImagesForFieldGuide/Bembidion_durangoense_profile.jpeg; sourceTree = "<group>"; };
+		E54D31501936BB6B008F1E10 /* Bembidion_durangoense_squareCrop.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Bembidion_durangoense_squareCrop.jpeg; path = ../../../../Documents/ImagesForFieldGuide/Bembidion_durangoense_squareCrop.jpeg; sourceTree = "<group>"; };
+		E54D31511936BB6B008F1E10 /* Bembidion_inaequale_profile.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Bembidion_inaequale_profile.jpeg; path = ../../../../Documents/ImagesForFieldGuide/Bembidion_inaequale_profile.jpeg; sourceTree = "<group>"; };
+		E54D31521936BB6B008F1E10 /* Bembidion_inaequale_squareCrop.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Bembidion_inaequale_squareCrop.jpeg; path = ../../../../Documents/ImagesForFieldGuide/Bembidion_inaequale_squareCrop.jpeg; sourceTree = "<group>"; };
+		E54D31531936BB6B008F1E10 /* Bembidion_louisella_profile.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Bembidion_louisella_profile.jpeg; path = ../../../../Documents/ImagesForFieldGuide/Bembidion_louisella_profile.jpeg; sourceTree = "<group>"; };
+		E54D31541936BB6B008F1E10 /* Bembidion_louisella_squareCrop.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Bembidion_louisella_squareCrop.jpeg; path = ../../../../Documents/ImagesForFieldGuide/Bembidion_louisella_squareCrop.jpeg; sourceTree = "<group>"; };
+		E54D31551936BB6B008F1E10 /* Bembidion_rothfelsi_profile.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Bembidion_rothfelsi_profile.jpeg; path = ../../../../Documents/ImagesForFieldGuide/Bembidion_rothfelsi_profile.jpeg; sourceTree = "<group>"; };
+		E54D31561936BB6B008F1E10 /* Bembidion_rothfelsi_squareCropg.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Bembidion_rothfelsi_squareCropg.jpeg; path = ../../../../Documents/ImagesForFieldGuide/Bembidion_rothfelsi_squareCropg.jpeg; sourceTree = "<group>"; };
+		E54D31571936BB6B008F1E10 /* Bembidion_rufotinctum_profile.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Bembidion_rufotinctum_profile.jpeg; path = ../../../../Documents/ImagesForFieldGuide/Bembidion_rufotinctum_profile.jpeg; sourceTree = "<group>"; };
+		E54D31581936BB6B008F1E10 /* Bembidion_rufotinctum_squareCrop.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Bembidion_rufotinctum_squareCrop.jpeg; path = ../../../../Documents/ImagesForFieldGuide/Bembidion_rufotinctum_squareCrop.jpeg; sourceTree = "<group>"; };
+		E54D31591936BB6B008F1E10 /* Bembidion_xanthacrum_profile.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Bembidion_xanthacrum_profile.jpeg; path = ../../../../Documents/ImagesForFieldGuide/Bembidion_xanthacrum_profile.jpeg; sourceTree = "<group>"; };
+		E54D315A1936BB6B008F1E10 /* Bembidion_xanthacrum_squareCrop.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Bembidion_xanthacrum_squareCrop.jpeg; path = ../../../../Documents/ImagesForFieldGuide/Bembidion_xanthacrum_squareCrop.jpeg; sourceTree = "<group>"; };
+		E567BCE419355F8400348D42 /* Microserrullula_2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Microserrullula_2x.png; path = ../../../Documents/ImagesForFieldGuide/Microserrullula_2x.png; sourceTree = "<group>"; };
+		E567BCE519355F8400348D42 /* Microserrullula_active_2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Microserrullula_active_2x.png; path = ../../../Documents/ImagesForFieldGuide/Microserrullula_active_2x.png; sourceTree = "<group>"; };
+		E59AF78619354F93007B5D0F /* animalData_original.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; name = animalData_original.plist; path = animalData/animalData_original.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -527,6 +601,7 @@
 			isa = PBXGroup;
 			children = (
 				611D22F213F0F1D3005EE320 /* animalData.plist */,
+				E59AF78619354F93007B5D0F /* animalData_original.plist */,
 			);
 			name = AnimalData;
 			sourceTree = "<group>";
@@ -565,6 +640,32 @@
 		61CF5B33120662AA00964A9F /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				E54D31411936BB6B008F1E10 /* Bembidion_americanum_profile.jpeg */,
+				E54D31421936BB6B008F1E10 /* Bembidion_americanum_squareCrop.jpeg */,
+				E54D31431936BB6B008F1E10 /* Bembidion_antiquum_profile.jpeg */,
+				E54D31441936BB6B008F1E10 /* Bembidion_antiquum_squareCrop.jpeg */,
+				E54D31451936BB6B008F1E10 /* Bembidion_balli_profile.jpeg */,
+				E54D31461936BB6B008F1E10 /* Bembidion_balli_squareCrop.jpeg */,
+				E54D31471936BB6B008F1E10 /* Bembidion_bellorum_profile.jpeg */,
+				E54D31481936BB6B008F1E10 /* Bembidion_bellorum_squareCrop.jpeg */,
+				E54D31491936BB6B008F1E10 /* Bembidion_bifossulatum_profile.jpeg */,
+				E54D314A1936BB6B008F1E10 /* Bembidion_bifossulatum_squareCrop.jpeg */,
+				E54D314B1936BB6B008F1E10 /* Bembidion_chalceum_profile.jpeg */,
+				E54D314C1936BB6B008F1E10 /* Bembidion_chalceum_squareCrop.jpeg */,
+				E54D314D1936BB6B008F1E10 /* Bembidion_confusum_profile.jpeg */,
+				E54D314E1936BB6B008F1E10 /* Bembidion_confusum_squareCrop.jpeg */,
+				E54D314F1936BB6B008F1E10 /* Bembidion_durangoense_profile.jpeg */,
+				E54D31501936BB6B008F1E10 /* Bembidion_durangoense_squareCrop.jpeg */,
+				E54D31511936BB6B008F1E10 /* Bembidion_inaequale_profile.jpeg */,
+				E54D31521936BB6B008F1E10 /* Bembidion_inaequale_squareCrop.jpeg */,
+				E54D31531936BB6B008F1E10 /* Bembidion_louisella_profile.jpeg */,
+				E54D31541936BB6B008F1E10 /* Bembidion_louisella_squareCrop.jpeg */,
+				E54D31551936BB6B008F1E10 /* Bembidion_rothfelsi_profile.jpeg */,
+				E54D31561936BB6B008F1E10 /* Bembidion_rothfelsi_squareCropg.jpeg */,
+				E54D31571936BB6B008F1E10 /* Bembidion_rufotinctum_profile.jpeg */,
+				E54D31581936BB6B008F1E10 /* Bembidion_rufotinctum_squareCrop.jpeg */,
+				E54D31591936BB6B008F1E10 /* Bembidion_xanthacrum_profile.jpeg */,
+				E54D315A1936BB6B008F1E10 /* Bembidion_xanthacrum_squareCrop.jpeg */,
 				6141AE5E13F2269B0057716B /* frogsquare.jpg */,
 				6141AE5F13F2269B0057716B /* growlgrass1.jpg */,
 				6141AE6013F2269B0057716B /* kooka.jpg */,
@@ -634,6 +735,16 @@
 		A48ED2AD130658470086902C /* TaxonIcons */ = {
 			isa = PBXGroup;
 			children = (
+				E54D312D1936B7CC008F1E10 /* Bracteon_2x.png */,
+				E54D312E1936B7CC008F1E10 /* Bracteon_active_2x.png */,
+				E54D312F1936B7CC008F1E10 /* Ochthedromus_2x.png */,
+				E54D31301936B7CC008F1E10 /* Ochthedromus_active_2x.png */,
+				E54D31311936B7CC008F1E10 /* Odontium_2x.png */,
+				E54D31321936B7CC008F1E10 /* Odontium_active_2x.png */,
+				E54D31331936B7CC008F1E10 /* Pseudoperyhpus_active_2x.png */,
+				E54D31341936B7CC008F1E10 /* Pseudoperyphus_2x.png */,
+				E567BCE419355F8400348D42 /* Microserrullula_2x.png */,
+				E567BCE519355F8400348D42 /* Microserrullula_active_2x.png */,
 				61504F3D13F10BAF008010A7 /* animal_01_birds@2x.png */,
 				61504F3E13F10BAF008010A7 /* animal_02_butterflies@2x.png */,
 				61504F3F13F10BAF008010A7 /* animal_03_freshInvertebrates@2x.png */,
@@ -834,21 +945,28 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E54D31391936B7CC008F1E10 /* Odontium_2x.png in Resources */,
 				28AD73600D9D9599002E5188 /* MainWindow.xib in Resources */,
 				2899E5600DE3E45000AC0155 /* RootViewController.xib in Resources */,
+				E54D315D1936BB6B008F1E10 /* Bembidion_antiquum_profile.jpeg in Resources */,
+				E54D315F1936BB6B008F1E10 /* Bembidion_balli_profile.jpeg in Resources */,
 				61E8B669120536A7005470CD /* TaxonListViewController.xib in Resources */,
 				A441D496123308A8003C6F98 /* AnimalDetailiPad.xib in Resources */,
 				A46EA27B123F9A0B0049005A /* AnimalImageController.xib in Resources */,
 				A41B2C6312A10A47004F4D83 /* AudioListViewController.xib in Resources */,
 				A485942112D1BFFF007FA9A1 /* PopOverAudio-Notes.png in Resources */,
+				E54D316D1936BB6B008F1E10 /* Bembidion_louisella_profile.jpeg in Resources */,
+				E54D31741936BB6B008F1E10 /* Bembidion_xanthacrum_squareCrop.jpeg in Resources */,
 				A485942212D1BFFF007FA9A1 /* PopOverAudio.png in Resources */,
 				A485942312D1BFFF007FA9A1 /* PopOverMap.png in Resources */,
 				A485942412D1BFFF007FA9A1 /* ViewImageText.png in Resources */,
 				A485942512D1BFFF007FA9A1 /* ViewText.png in Resources */,
 				A4793B5612D32EF600C64280 /* PopOverSearch.png in Resources */,
+				E54D31711936BB6B008F1E10 /* Bembidion_rufotinctum_profile.jpeg in Resources */,
 				A46F9AA712D4886500819E65 /* ViewImage.png in Resources */,
 				A4A25D2A12D97F5E003E45D2 /* SearchTableViewController.xib in Resources */,
 				A4D3C4D812DA52B100BFC300 /* CustomSearchViewController.xib in Resources */,
+				E54D313A1936B7CC008F1E10 /* Odontium_active_2x.png in Resources */,
 				A41F549812EE147C00B9342F /* MVPagingScrollView.xib in Resources */,
 				A499798312EFCBC80032383D /* MainIpad2.xib in Resources */,
 				A41E9EAC12F3967200102AC3 /* icon_aus.png in Resources */,
@@ -861,6 +979,8 @@
 				A499B1F31313B4C10025001F /* iPhoneInitialLoadView.xib in Resources */,
 				619D90A2131C738F00CCBD6C /* SimpleFetchedAnimalListViewController.xib in Resources */,
 				619D9169131CBF7900CCBD6C /* mv.png in Resources */,
+				E54D31651936BB6B008F1E10 /* Bembidion_chalceum_profile.jpeg in Resources */,
+				E54D315B1936BB6B008F1E10 /* Bembidion_americanum_profile.jpeg in Resources */,
 				619D916A131CBF7900CCBD6C /* mv@2x.png in Resources */,
 				619D917C131CC74B00CCBD6C /* help.png in Resources */,
 				619D917D131CC74B00CCBD6C /* help@2x.png in Resources */,
@@ -884,17 +1004,25 @@
 				61504EF513F10AD3008010A7 /* AudioTrackHighlightActive1.png in Resources */,
 				61504EF613F10AD3008010A7 /* AudioTrackHighlightActive1@2x.png in Resources */,
 				61504EF713F10AD3008010A7 /* AudioTrackHighlightActive2.png in Resources */,
+				E54D31361936B7CC008F1E10 /* Bracteon_active_2x.png in Resources */,
+				E54D31621936BB6B008F1E10 /* Bembidion_bellorum_squareCrop.jpeg in Resources */,
 				61504EF813F10AD3008010A7 /* AudioTrackHighlightActive2@2x.png in Resources */,
+				E54D31671936BB6B008F1E10 /* Bembidion_confusum_profile.jpeg in Resources */,
 				61504EF913F10AD3008010A7 /* AudioTrackHighlightActive3.png in Resources */,
 				61504EFA13F10AD3008010A7 /* AudioTrackHighlightActive3@2x.png in Resources */,
 				61504EFB13F10AD3008010A7 /* AudioTrackHighlightInactive.png in Resources */,
 				61504EFC13F10AD3008010A7 /* AudioTrackHighlightInactive@2x.png in Resources */,
 				61504EFD13F10AD3008010A7 /* AudioTrackInactive.png in Resources */,
+				E54D31661936BB6B008F1E10 /* Bembidion_chalceum_squareCrop.jpeg in Resources */,
+				E54D31731936BB6B008F1E10 /* Bembidion_xanthacrum_profile.jpeg in Resources */,
 				61504EFE13F10AD3008010A7 /* AudioTrackInactive@2x.png in Resources */,
 				61504F1E13F10B80008010A7 /* iphone_audio.png in Resources */,
+				E54D316A1936BB6B008F1E10 /* Bembidion_durangoense_squareCrop.jpeg in Resources */,
 				61504F1F13F10B80008010A7 /* iphone_details.png in Resources */,
 				61504F2013F10B80008010A7 /* iphone_distribution.png in Resources */,
+				E54D316C1936BB6B008F1E10 /* Bembidion_inaequale_squareCrop.jpeg in Resources */,
 				61504F2113F10B80008010A7 /* iphone_images.png in Resources */,
+				E54D316E1936BB6B008F1E10 /* Bembidion_louisella_squareCrop.jpeg in Resources */,
 				61504F2213F10B80008010A7 /* iphone_scarcity.png in Resources */,
 				61504F2313F10B80008010A7 /* iphone_scarcity@2x.png in Resources */,
 				61504F2413F10B80008010A7 /* iphone_scarcity@x2.png in Resources */,
@@ -903,15 +1031,18 @@
 				61504F2713F10B80008010A7 /* iphone_tab01_categories.png in Resources */,
 				61504F2813F10B80008010A7 /* iphone_tab02_alphabetical.png in Resources */,
 				61504F2913F10B80008010A7 /* iphone_tab03_search.png in Resources */,
+				E54D313B1936B7CC008F1E10 /* Pseudoperyhpus_active_2x.png in Resources */,
 				61504F2A13F10B80008010A7 /* iphone_tab04_about.png in Resources */,
 				61504F2B13F10B80008010A7 /* tabBar1_about.png in Resources */,
 				61504F2C13F10B80008010A7 /* tabBar1_about@2x.png in Resources */,
+				E54D31371936B7CC008F1E10 /* Ochthedromus_2x.png in Resources */,
 				61504F2D13F10B80008010A7 /* tabBar1_alphabetical.png in Resources */,
 				61504F2E13F10B80008010A7 /* tabBar1_alphabetical@2x.png in Resources */,
 				61504F2F13F10B80008010A7 /* tabBar1_categories.png in Resources */,
 				61504F3013F10B80008010A7 /* tabBar1_categories@2x.png in Resources */,
 				61504F3113F10B80008010A7 /* tabBar1_search.png in Resources */,
 				61504F3213F10B80008010A7 /* tabBar1_search@2x.png in Resources */,
+				E54D31681936BB6B008F1E10 /* Bembidion_confusum_squareCrop.jpeg in Resources */,
 				61504F3313F10B80008010A7 /* tabBar2_audio.png in Resources */,
 				61504F3413F10B80008010A7 /* tabBar2_audio@2x.png in Resources */,
 				61504F3513F10B80008010A7 /* tabBar2_details.png in Resources */,
@@ -921,26 +1052,37 @@
 				61504F3913F10B80008010A7 /* tabBar2_images.png in Resources */,
 				61504F3A13F10B80008010A7 /* tabBar2_images@2x.png in Resources */,
 				61504F3B13F10B80008010A7 /* tabBar2_scarcity.png in Resources */,
+				E54D31641936BB6B008F1E10 /* Bembidion_bifossulatum_squareCrop.jpeg in Resources */,
 				61504F3C13F10B80008010A7 /* tabBar2_scarcity@2x.png in Resources */,
+				E567BCE619355F8400348D42 /* Microserrullula_2x.png in Resources */,
 				61504F5513F10BAF008010A7 /* animal_01_birds@2x.png in Resources */,
 				61504F5613F10BAF008010A7 /* animal_02_butterflies@2x.png in Resources */,
+				E54D31691936BB6B008F1E10 /* Bembidion_durangoense_profile.jpeg in Resources */,
 				61504F5713F10BAF008010A7 /* animal_03_freshInvertebrates@2x.png in Resources */,
 				61504F5813F10BAF008010A7 /* animal_04_frogs@2x.png in Resources */,
+				E54D315C1936BB6B008F1E10 /* Bembidion_americanum_squareCrop.jpeg in Resources */,
 				61504F5913F10BAF008010A7 /* animal_05_insects@2x.png in Resources */,
 				61504F5A13F10BAF008010A7 /* animal_06_lizards@2x.png in Resources */,
+				E54D31701936BB6B008F1E10 /* Bembidion_rothfelsi_squareCropg.jpeg in Resources */,
+				E54D31351936B7CC008F1E10 /* Bracteon_2x.png in Resources */,
 				61504F5B13F10BAF008010A7 /* animal_07_mammals@2x.png in Resources */,
 				61504F5C13F10BAF008010A7 /* animal_08_marineInvertebrates@2x.png in Resources */,
 				61504F5D13F10BAF008010A7 /* animal_09_snakes@2x.png in Resources */,
 				61504F5E13F10BAF008010A7 /* animal_10_spiders@2x.png in Resources */,
 				61504F5F13F10BAF008010A7 /* animal_11_terrestrialInvertebrates@2x.png in Resources */,
+				E59AF78719354F93007B5D0F /* animalData_original.plist in Resources */,
 				61504F6013F10BAF008010A7 /* animal_12_fishes@2x.png in Resources */,
 				61504F6113F10BAF008010A7 /* animalActive_01_birds@2x.png in Resources */,
 				61504F6213F10BAF008010A7 /* animalActive_02_butterflies@2x.png in Resources */,
 				61504F6313F10BAF008010A7 /* animalActive_03_freshInvertebrates@2x.png in Resources */,
 				61504F6413F10BAF008010A7 /* animalActive_04_frogs@2x.png in Resources */,
 				61504F6513F10BAF008010A7 /* animalActive_05_insects@2x.png in Resources */,
+				E54D31601936BB6B008F1E10 /* Bembidion_balli_squareCrop.jpeg in Resources */,
 				61504F6613F10BAF008010A7 /* animalActive_06_lizards@2x.png in Resources */,
 				61504F6713F10BAF008010A7 /* animalActive_07_mammals@2x.png in Resources */,
+				E567BCE719355F8400348D42 /* Microserrullula_active_2x.png in Resources */,
+				E54D31611936BB6B008F1E10 /* Bembidion_bellorum_profile.jpeg in Resources */,
+				E54D313C1936B7CC008F1E10 /* Pseudoperyphus_2x.png in Resources */,
 				61504F6813F10BAF008010A7 /* animalActive_08_marineInvertebrates@2x.png in Resources */,
 				61504F6913F10BAF008010A7 /* animalActive_09_snakes@2x.png in Resources */,
 				61504F6A13F10BAF008010A7 /* animalActive_10_spiders@2x.png in Resources */,
@@ -951,12 +1093,16 @@
 				61504F7B13F10C00008010A7 /* about.html in Resources */,
 				61504F7C13F10C00008010A7 /* icon_country.png in Resources */,
 				61504F7D13F10C00008010A7 /* icon_extlink.png in Resources */,
+				E54D316F1936BB6B008F1E10 /* Bembidion_rothfelsi_profile.jpeg in Resources */,
+				E54D31381936B7CC008F1E10 /* Ochthedromus_active_2x.png in Resources */,
 				61504F7E13F10C00008010A7 /* icon_info.png in Resources */,
 				61504F7F13F10C00008010A7 /* icon_local.png in Resources */,
 				61504F8013F10C00008010A7 /* icon_world.png in Resources */,
 				61504F8113F10C00008010A7 /* map_placeholder.jpg in Resources */,
+				E54D316B1936BB6B008F1E10 /* Bembidion_inaequale_profile.jpeg in Resources */,
 				61504F8213F10C00008010A7 /* style.css in Resources */,
 				61504F8313F10C00008010A7 /* template-ipad.html in Resources */,
+				E54D31721936BB6B008F1E10 /* Bembidion_rufotinctum_squareCrop.jpeg in Resources */,
 				61504F8413F10C00008010A7 /* welcome.html in Resources */,
 				61E2E2FD13F21271009E07B0 /* apple-touch-icon@2x.png in Resources */,
 				61E2E30513F2133E009E07B0 /* apple-ipad-icon.png in Resources */,
@@ -966,8 +1112,10 @@
 				61C97FC613F21EFA00892FC4 /* iPhoneLaunch@2x.png in Resources */,
 				6141AE6213F2269B0057716B /* frogsquare.jpg in Resources */,
 				6141AE6313F2269B0057716B /* growlgrass1.jpg in Resources */,
+				E54D315E1936BB6B008F1E10 /* Bembidion_antiquum_squareCrop.jpeg in Resources */,
 				6141AE6413F2269B0057716B /* kooka.jpg in Resources */,
 				6141AE6513F2269B0057716B /* kookasquare.jpg in Resources */,
+				E54D31631936BB6B008F1E10 /* Bembidion_bifossulatum_profile.jpeg in Resources */,
 				6141AE6913F22AD10057716B /* bloop.mp3 in Resources */,
 				A432EC51176EDA7500FD30ED /* iPhoneLaunch-568h@2x.png in Resources */,
 			);
